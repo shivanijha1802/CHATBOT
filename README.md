@@ -63,7 +63,7 @@ python chatbot.py
 
 ```
 ChatBot: Hello! I am your friendly chatbot.
-ChatBot: Type 'help' to see what can I help you with. Type 'bye' anytime to exit.
+ Type 'help' to see what can I help you with. Type 'bye' anytime to exit.
 You: hello
 Bot: Hi there! How can I help you?
 You: joke
